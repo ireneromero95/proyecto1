@@ -158,7 +158,7 @@ footer ul > li:hover{
 }
 
 /* MEDIA MOVIL*/
-@media (max-width: 375px){
+@media (max-width: 896px){
 /* MEDIA DE HEADER */
   h1{
     display:none;
